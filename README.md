@@ -247,21 +247,6 @@ For detailed dependency information, see:
 
 Feel free to fork this project and submit pull requests for any improvements.
 
-## 📄 License
-
-ISC License
-
-## 👨‍💻 Author
-
-Created as a practical learning project
-
-## 🙏 Acknowledgments
-
-- MediaPipe for face detection technology
-- Tailwind CSS for styling utilities
-- Express.js for backend framework
-- React team for the amazing frontend library
-
 ## 📞 Support
 
 For issues, questions, or suggestions, please open an issue in the repository.
