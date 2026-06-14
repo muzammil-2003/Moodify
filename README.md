@@ -47,7 +47,7 @@ A web application that detects your facial expression and recommends music based
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/muzammil-2003/Moodify.git
 cd Moodify
 ```
 
